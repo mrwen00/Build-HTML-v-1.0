@@ -1,0 +1,3 @@
+I have built the HTML file using C++, The file: abc.html, 1345.html ... are the file example output.
+This is just a small application for managing the staff in school or company ...
+If you find out any mistake, or silly codes. You can comment to me. Thanks.
